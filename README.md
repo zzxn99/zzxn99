@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zzxn99
-- 👀 I’m interested in Algorithm
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Tensorflow
 
 
